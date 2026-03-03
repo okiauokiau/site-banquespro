@@ -1,6 +1,6 @@
 # FICHE TECHNIQUE - Site Banques Pro
 
-> **Derniere mise a jour** : 02 mars 2026
+> **Derniere mise a jour** : 03 mars 2026
 > **Statut** : Phase 1 - Developpement (contenu cree)
 
 ---
@@ -14,7 +14,7 @@
 | **Cible** | Entrepreneurs, freelances, createurs d'entreprise, PME |
 | **Langue** | Francais |
 | **Zone geographique** | France |
-| **Nombre d'articles** | **17 pages creees** |
+| **Nombre d'articles** | **19 pages creees** |
 
 ---
 
@@ -117,7 +117,7 @@ site-banquespro/
 ├── avis.html                           ✅ Page liste avis
 ├── guide.html                          ✅ Page liste guides
 ├── mentions-legales.html               ✅ Mentions legales
-├── sitemap.xml                         ✅ Sitemap SEO (17 URLs)
+├── sitemap.xml                         ✅ Sitemap SEO (19 URLs)
 │
 ├── css/
 │   └── style.css                       ✅ Styles
@@ -138,9 +138,11 @@ site-banquespro/
 │   ├── avis-n26-business.html          ✅ NOUVEAU (02/03/2026)
 │   └── avis-finom.html                 ✅ NOUVEAU (02/03/2026)
 │
-├── VERSUS (2 articles)                 ✅ NOUVEAU (02/03/2026)
+├── VERSUS (4 articles)                 ✅ MAJ (03/03/2026)
 │   ├── qonto-vs-shine.html             ✅
-│   └── qonto-vs-blank.html             ✅
+│   ├── qonto-vs-blank.html             ✅
+│   ├── shine-vs-revolut.html           ✅ NOUVEAU (03/03/2026)
+│   └── neobanque-vs-traditionnelle.html ✅ NOUVEAU (03/03/2026)
 │
 ├── GUIDES (4 articles)                 ✅ NOUVEAU (02/03/2026)
 │   ├── ouvrir-compte-pro.html          ✅
@@ -152,7 +154,7 @@ site-banquespro/
     └── SESSIONS-TRAVAIL.md             Documentation
 ```
 
-### Total : 17 pages
+### Total : 19 pages
 
 ---
 
@@ -234,6 +236,11 @@ site-banquespro/
 | | - Guides: ouvrir-compte-pro, choisir-banque-auto-entrepreneur, banque-pro-obligatoire, depot-capital-creation-societe |
 | | - Images: 6 logos SVG |
 | | - Sitemap mis a jour (17 URLs) |
+| **03/03/2026** | **+2 pages comparatifs** |
+| | - Comparatifs: Shine vs Revolut, Neobanque vs Traditionnelle |
+| | - Finom ajoute au tableau recap avis.html |
+| | - Guide.html mis a jour avec nouveaux liens |
+| | - Sitemap mis a jour (19 URLs) |
 
 ---
 

@@ -83,6 +83,20 @@
     <priority>0.7</priority>
   </url>
 
+  <url>
+    <loc>https://comparatif-banque-pro.fr/shine-vs-revolut</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://comparatif-banque-pro.fr/neobanque-vs-traditionnelle</loc>
+    <lastmod>2026-03-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- Hub Guide -->
   <url>
     <loc>https://comparatif-banque-pro.fr/guide</loc>
